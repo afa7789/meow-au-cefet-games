@@ -3,6 +3,9 @@
 Um jogo simples, descomprometido e maroto descobrir sobre a secreta vida
 animal.
 
+Eu produzi o minigame que se encontra nesse arquivo: 
+   https://github.com/afa7789/meow-au-cefet-games/blob/master/core/src/br/cefetmg/games/minigames/DogBarksCatFlee.java
+
 ## Instruções para Começar
 
 O projeto deve ser entregue como um _Pull Request_ (veja
